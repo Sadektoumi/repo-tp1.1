@@ -1,1 +1,1 @@
-je ne serai pas ignore par git
+Cette ligne est insérée par le collaborateur
